@@ -1,4 +1,4 @@
-# Pneumonia-Prediction
+# Pneumonia Prediction with CNN
 
 ## Summary
 
