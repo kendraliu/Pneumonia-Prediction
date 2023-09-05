@@ -7,7 +7,7 @@ This project developed a convolutional neural network (CNN) model that identifie
 The model achieved a 91.67% accuracy, with a 95% recall on identifying positive cases (95% sensitivity), and a 86% on negative cases (86% specificity) on 120 testing x-ray images.
 
 Examples: 
-[predict](/images/test_5) [predict2](/images/test_78)
+![predict](/images/test_5) ![predict2](/images/test_78)
 
 ## Background
 
@@ -15,7 +15,7 @@ Pneumonia is an infection of the lungs. Its seriousness can range from mild to l
 
 | normal | pnemonia |
 |-------|-------|
-| [normal x ray](chest_xray/val/NORMAL/NORMAL2-IM-1436-0001.jpeg) | [pna x ray](chest_xray/val/PNEUMONIA/person1954_bacteria_4886.jpeg) |
+| ![normal x ray](/chest_xray/val/NORMAL/NORMAL2-IM-1436-0001.jpeg) | ![pna x ray](/chest_xray/val/PNEUMONIA/person1954_bacteria_4886.jpeg) |
 
 
 ## Results
@@ -37,4 +37,4 @@ In the case of pneumonia, sensitivity is more ipmortant than specifity because p
 
 | model architecture |
 |-----|
-| [arch](images/cnn_architecture.png)
+| ![arch](/images/cnn_architecture.png)
