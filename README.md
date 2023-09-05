@@ -41,3 +41,7 @@ In the case of pneumonia, sensitivity is more important than specifity because p
 
 Side note:
 The same CNN model yielded good results with two different random states. However, one of them turned out to have a 100% sensitivity, which would never happen in real world, and it achieved so by sacrificing specificity (61%). The one kept in this repo is therefore the other one as detailed above.
+
+
+
+Credits to [this Kaggle dataset](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia) for every x-ray images used in this project.
